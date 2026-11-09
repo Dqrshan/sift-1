@@ -1,7 +1,5 @@
 # SIFT·1 — The AI Sorting Companion for the Modern Home
 
-![SIFT·1](public/logo.svg)
-
 A concept domestic smart dustbin with onboard AI vision that identifies waste, sorts it into sealed compartments, quarantines hazards, and tracks household impact. Built with Next.js, Three.js, and a modern React stack.
 
 ## Features
