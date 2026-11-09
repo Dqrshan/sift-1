@@ -1,6 +1,6 @@
 [build]
   command = "npm install --no-audit --no-fund && npm run build"
-  publish = ".next"
+  publish = ".next/standalone/"
 
 [build.environment]
   NODE_VERSION = "20"
